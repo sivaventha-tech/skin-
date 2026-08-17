@@ -1,0 +1,481 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    >
+
+    <meta
+        name="description"
+        content="AI-powered skin disease image classification system"
+    >
+
+    <title>Skin Disease AI | Classification</title>
+
+    <!-- Main CSS -->
+    <link
+        rel="stylesheet"
+        href="{{ url_for('static', filename='css/style.css') }}"
+    >
+</head>
+
+<body>
+
+<!-- =========================================================
+     HEADER
+========================================================= -->
+
+<header class="top-header">
+
+    <div class="header-container">
+
+        <div class="brand">
+
+            <div class="brand-icon">
+                🩺
+            </div>
+
+            <div class="brand-text">
+
+                <h1>Skin Disease AI</h1>
+
+                <p>
+                    Intelligent Skin Image Classification
+                </p>
+
+            </div>
+
+        </div>
+
+
+        <div class="model-status">
+
+            <span class="status-dot"></span>
+
+            <span>
+                AI Model Active
+            </span>
+
+        </div>
+
+    </div>
+
+</header>
+
+
+<!-- =========================================================
+     MAIN
+========================================================= -->
+
+<main class="main-container">
+
+
+    <!-- =====================================================
+         HERO
+    ====================================================== -->
+
+    <section class="hero-section">
+
+        <div class="hero-content">
+
+            <span class="hero-badge">
+                AI-POWERED ANALYSIS
+            </span>
+
+            <h2>
+                Skin Disease
+                <span>Classification</span>
+            </h2>
+
+            <p>
+                Upload a skin image and our deep learning model
+                will analyze it and predict the most likely
+                disease category.
+            </p>
+
+            <div class="hero-features">
+
+                <div class="feature-item">
+                    <span>✓</span>
+                    22 Disease Classes
+                </div>
+
+                <div class="feature-item">
+                    <span>✓</span>
+                    Deep Learning
+                </div>
+
+                <div class="feature-item">
+                    <span>✓</span>
+                    Attention Enhanced
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- =====================================================
+         UPLOAD CARD
+    ====================================================== -->
+
+    <section class="upload-card">
+
+        <div class="card-header">
+
+            <div>
+
+                <h3 id="uploadTitle">
+                    Upload Skin Image
+                </h3>
+
+                <p id="uploadSubtitle">
+                    Select a clear image of the affected
+                    skin area for analysis.
+                </p>
+
+            </div>
+
+            <div class="card-icon">
+                🖼️
+            </div>
+
+        </div>
+
+
+        <!-- =================================================
+             FORM
+        ================================================== -->
+
+        <form
+            id="predictionForm"
+            action="{{ url_for('predict.predict') }}"
+            method="POST"
+            enctype="multipart/form-data"
+        >
+
+
+            <!-- =============================================
+                 DROP ZONE
+            ============================================== -->
+
+            <div
+                id="dropZone"
+                class="drop-zone"
+            >
+
+                <div
+                    id="uploadIcon"
+                    class="upload-icon"
+                >
+                    ☁️
+                </div>
+
+                <h4>
+                    Drag & Drop your image here
+                </h4>
+
+                <p>
+                    or click below to browse files
+                </p>
+
+
+                <!-- Browse button -->
+
+                <button
+                    type="button"
+                    id="browseButton"
+                    class="browse-button"
+                >
+                    Choose Image
+                </button>
+
+
+                <div class="file-information">
+
+                    <span>
+                        Supported: JPG, JPEG, PNG, WEBP
+                    </span>
+
+                    <span>
+                        Maximum size: 10 MB
+                    </span>
+
+                </div>
+
+            </div>
+
+
+            <!-- =============================================
+                 HIDDEN FILE INPUT
+            ============================================== -->
+
+            <input
+                type="file"
+                id="imageInput"
+                name="image"
+                accept=".jpg,.jpeg,.png,.webp,image/jpeg,image/png,image/webp"
+                hidden
+            >
+
+
+            <!-- =============================================
+                 IMAGE PREVIEW
+            ============================================== -->
+
+            <div
+                id="previewContainer"
+                class="preview-container"
+                style="display: none;"
+            >
+
+                <div class="preview-header">
+
+                    <div class="preview-title">
+
+                        <strong>
+                            Selected Image
+                        </strong>
+
+                    </div>
+
+
+                    <button
+                        type="button"
+                        id="removeImageButton"
+                        class="remove-button"
+                    >
+                        Remove
+                    </button>
+
+                </div>
+
+
+                <div class="preview-content">
+
+                    <div class="preview-image-wrapper">
+
+                        <img
+                            id="imagePreview"
+                            src=""
+                            alt="Selected skin image"
+                        >
+
+                    </div>
+
+
+                    <div class="file-details">
+
+                        <div class="file-name">
+
+                            <span>
+                                File
+                            </span>
+
+                            <strong id="fileName">
+                            </strong>
+
+                        </div>
+
+
+                        <div class="file-size">
+
+                            <span>
+                                Size
+                            </span>
+
+                            <strong id="fileSize">
+                            </strong>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+
+            <!-- =============================================
+                 ANALYZE BUTTON
+            ============================================== -->
+
+            <button
+                type="submit"
+                id="analyzeButton"
+                class="analyze-button"
+                disabled
+            >
+
+                <span
+                    id="buttonIcon"
+                    class="button-icon"
+                >
+                    🔍
+                </span>
+
+                <span id="buttonText">
+                    Analyze Skin Image
+                </span>
+
+            </button>
+
+
+            <!-- =============================================
+                 LOADING
+            ============================================== -->
+
+            <div
+                id="loadingContainer"
+                class="loading-container"
+                style="display: none;"
+            >
+
+                <div class="loading-spinner">
+                </div>
+
+                <div>
+
+                    <strong>
+                        AI model is analyzing the image...
+                    </strong>
+
+                    <p>
+                        Please wait while the prediction
+                        is being generated.
+                    </p>
+
+                </div>
+
+            </div>
+
+        </form>
+
+
+        <!-- =================================================
+             MODEL INFORMATION
+        ================================================== -->
+
+        <div class="model-information">
+
+            <div class="model-info-item">
+
+                <span class="info-label">
+                    MODEL
+                </span>
+
+                <strong>
+                    Attention-Enhanced
+                    EfficientNet-B0
+                </strong>
+
+            </div>
+
+
+            <div class="model-info-item">
+
+                <span class="info-label">
+                    CLASSES
+                </span>
+
+                <strong>
+                    22
+                </strong>
+
+            </div>
+
+
+            <div class="model-info-item">
+
+                <span class="info-label">
+                    INPUT
+                </span>
+
+                <strong>
+                    224 × 224 RGB
+                </strong>
+
+            </div>
+
+
+            <div class="model-info-item">
+
+                <span class="info-label">
+                    ATTENTION
+                </span>
+
+                <strong>
+                    Channel + Spatial
+                </strong>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- =====================================================
+         IMPORTANT NOTICE
+    ====================================================== -->
+
+    <section class="notice-card">
+
+        <div class="notice-icon">
+            ⚠️
+        </div>
+
+        <div>
+
+            <h4>
+                Research Prototype
+            </h4>
+
+            <p>
+                This system provides an AI-based image
+                classification prediction for research and
+                demonstration purposes. It is not a substitute
+                for professional medical diagnosis.
+            </p>
+
+        </div>
+
+    </section>
+
+
+</main>
+
+
+<!-- =========================================================
+     FOOTER
+========================================================= -->
+
+<footer class="footer">
+
+    <p>
+        Skin Disease AI Classification System
+    </p>
+
+    <p>
+        Attention-Enhanced EfficientNet-B0
+        · Research Prototype
+    </p>
+
+</footer>
+
+
+<!-- =========================================================
+     JAVASCRIPT
+========================================================= -->
+
+<script
+    src="{{ url_for('static', filename='js/script.js') }}"
+></script>
+
+</body>
+</html>

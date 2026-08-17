@@ -1,0 +1,23 @@
+@"
+venv/
+__pycache__/
+*.pyc
+
+dataset/raw/
+dataset/cleaned/
+dataset/processed/
+dataset/preprocessed/
+
+checkpoints/*.pth
+checkpoints/*.pt
+
+uploads/
+*.log
+
+results/figures/
+results/reports/
+
+.env
+.vscode/
+.idea/
+"@ | Set-Content .gitignore
