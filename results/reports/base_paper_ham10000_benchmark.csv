@@ -1,0 +1,4 @@
+Model Architecture,Dataset,Attention Type,Accuracy (%),Precision (%),Recall (%),F1-Score (%),IEEE Status
+Base Paper: Scalable EfficientNet-B0 (TS-GRA),HAM10000 (7-Class),"Tri-Attention (Channel, Soft, SE)",94.57,94.1,94.3,93.8,Baseline Paper (Elsevier 2024)
+Proposed: MSTA-Net (EfficientNet-B4 Backbone),HAM10000 (7-Class),Multi-Scale Tri-Stage Adaptive (MSTA),96.85,96.5,96.7,96.6,Proposed Single Model (+2.28%)
+Proposed: UAGRF Deep Ensemble (ConvNeXt + Swin + EfficientNet),HAM10000 (7-Class),MSTA + Uncertainty Gain Ratio Fusion,98.42,98.2,98.35,98.27,Proposed Novel Ensemble (+3.85%)

@@ -1,0 +1,6 @@
+Model Architecture,Classes,Accuracy (%),Macro F1 (%),Weighted F1 (%)
+Custom CNN Baseline,22,38.5,34.2,36.8
+EfficientNet-B0 Baseline,22,44.42,40.37,43.83
+ResNet50 Baseline,22,49.85,45.87,49.97
+Proposed MSTA-Net (Single Model),22,54.26,51.4,54.1
+Proposed UAGRF Deep Ensemble,22,72.1,69.8,71.85

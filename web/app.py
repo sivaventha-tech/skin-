@@ -94,7 +94,7 @@ try:
     )
 
     print(
-        "✓ Prediction blueprint registered"
+        "[OK] Prediction blueprint registered"
     )
 
 except Exception as error:
@@ -104,8 +104,31 @@ except Exception as error:
     print("WARNING: PREDICTION BLUEPRINT COULD NOT BE LOADED")
     print("=" * 70)
     print(error)
+    print("Please install missing dependencies: pip install -r requirements.txt")
     print("=" * 70)
     print()
+
+    # Register fallback blueprint so index.html does not crash on url_for('predict.predict')
+    if "predict" not in app.blueprints:
+        from flask import Blueprint
+        fallback_bp = Blueprint("predict", __name__)
+
+        @fallback_bp.route("/predict", methods=["GET", "POST"])
+        def predict():
+            return f"""
+            <div style="font-family: sans-serif; padding: 40px; text-align: center;">
+                <h2 style="color: #dc2626;">Missing Dependencies</h2>
+                <p>The prediction module requires dependencies like <code>Pillow</code> and <code>PyTorch</code>.</p>
+                <p>Please run the following command in your terminal:</p>
+                <pre style="background: #f1f5f9; padding: 15px; border-radius: 8px; display: inline-block;">pip install -r requirements.txt</pre>
+                <br><br>
+                <a href="/" style="color: #2563eb;">Back to Home</a>
+            </div>
+            """, 500
+
+        app.register_blueprint(fallback_bp)
+
+
 
 
 # ============================================================

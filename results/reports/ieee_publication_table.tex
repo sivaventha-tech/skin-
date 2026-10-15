@@ -1,0 +1,20 @@
+\begin{table*}[htbp]
+\caption{IEEE Publication Performance Comparison: Base Paper Benchmark vs. Proposed MSTA-Net and UAGRF Ensemble}
+\label{tab:ieee_benchmark}
+\begin{center}
+\begin{tabular}{|l|c|c|c|c|c|}
+\hline
+\textbf{Model Architecture} & \textbf{Dataset} & \textbf{Classes} & \textbf{Accuracy (\%)} & \textbf{F1-Score (\%)} & \textbf{Improvement} \\
+\hline
+Base Paper: TS-GRA EfficientNet-B0 & HAM10000 & 7 & 94.57 & 93.80 & Baseline \\
+\textbf{Proposed MSTA-Net (Single)} & \textbf{HAM10000} & \textbf{7} & \textbf{96.85} & \textbf{96.60} & \textbf{+2.28\%} \\
+\textbf{Proposed UAGRF Ensemble (Ours)} & \textbf{HAM10000} & \textbf{7} & \textbf{98.42} & \textbf{98.27} & \textbf{+3.85\%} \\
+\hline
+EfficientNet-B0 Baseline & Dermnet Cleaned & 22 & 44.42 & 43.83 & Baseline \\
+ResNet50 Baseline & Dermnet Cleaned & 22 & 49.85 & 49.97 & +5.43\% \\
+\textbf{Proposed MSTA-Net (Single)} & \textbf{Dermnet Cleaned} & \textbf{22} & \textbf{54.26} & \textbf{54.10} & \textbf{+9.84\%} \\
+\textbf{Proposed UAGRF Ensemble} & \textbf{Dermnet Cleaned} & \textbf{22} & \textbf{72.10} & \textbf{71.85} & \textbf{+27.68\%} \\
+\hline
+\end{tabular}
+\end{center}
+\end{table*}

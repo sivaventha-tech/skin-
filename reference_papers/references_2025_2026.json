@@ -1,0 +1,2112 @@
+[
+  {
+    "title": "Managing a pigmented skin lesion on the foot",
+    "authors": "Al-Absi Y, Dicker T.",
+    "year": "2025",
+    "journal": "Aust J Gen Pract",
+    "doi": "10.31128/ajgp-02-25-7542",
+    "pmid": "41038702",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Skin Lesion Classification Using Focal Modulation Networks",
+    "authors": "Zan H.",
+    "year": "2025",
+    "journal": "Ann N Y Acad Sci",
+    "doi": "10.1111/nyas.70139",
+    "pmid": "41178745",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "PAL: Boosting Skin Lesion Segmentation via Probabilistic Attribute Learning",
+    "authors": "Yuan Y, Wang X, Li J, Chen G, Heng PA.",
+    "year": "2025",
+    "journal": "IEEE Trans Med Imaging",
+    "doi": "10.1109/tmi.2025.3588167",
+    "pmid": "40644094",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "SkinAttn-Net: a multi-level attention-based network for skin lesion segmentation",
+    "authors": "Söylemez ÖF.",
+    "year": "2025",
+    "journal": "Sci Rep",
+    "doi": "10.1038/s41598-025-33767-0",
+    "pmid": "41449289",
+    "pmcid": "PMC12852886",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Artificial intelligence for skin lesion classification and diagnosis in dermatology: A narrative review",
+    "authors": "Ramos Chaparro PA, Hernández Rincón EH, Melo Sierra N, Osorio Betancourt GA, Díaz Quijano DM, Barbosa Ardila SD, Rolón Cadena M, Rueda Rodríguez A.",
+    "year": "2025",
+    "journal": "Medwave",
+    "doi": "10.5867/medwave.2025.10.3120",
+    "pmid": "41264800",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Deep Ensemble Learning for Multiclass Skin Lesion Classification",
+    "authors": "Chiu TM, Chi IC, Li YC, Tseng MH.",
+    "year": "2025",
+    "journal": "Bioengineering (Basel)",
+    "doi": "10.3390/bioengineering12090934",
+    "pmid": "41007179",
+    "pmcid": "PMC12467972",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Lightweight Unet with depthwise separable convolution for skin lesion segmentation",
+    "authors": "Li Y, Hu B, Wang X, Liu K.",
+    "year": "2025",
+    "journal": "Sci Rep",
+    "doi": "10.1038/s41598-025-16683-1",
+    "pmid": "41038851",
+    "pmcid": "PMC12491560",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Multimodal dual-stage feature refinement for robust skin lesion classification",
+    "authors": "Khurshid M, Singh R, Vatsa M.",
+    "year": "2025",
+    "journal": "Sci Rep",
+    "doi": "10.1038/s41598-025-14839-7",
+    "pmid": "41162437",
+    "pmcid": "PMC12572157",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "MSDTCN-Net: A Multi-Scale Dual-Encoder Network for Skin Lesion Segmentation",
+    "authors": "Li D, Wu X, Wei Q.",
+    "year": "2025",
+    "journal": "Diagnostics (Basel)",
+    "doi": "10.3390/diagnostics15222924",
+    "pmid": "41300948",
+    "pmcid": "PMC12651090",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "SET: Superpixel Embedded Transformer for skin lesion segmentation",
+    "authors": "Wang Z, Lyu J, Tang X.",
+    "year": "2025",
+    "journal": "Med Image Anal",
+    "doi": "10.1016/j.media.2025.103738",
+    "pmid": "40737813",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "GatedSegDiff: a gated fusion diffusion model for skin lesion segmentation",
+    "authors": "Wang X, Yao L, Zeng J, Chen X, Wang H, Qian C, Wang X.",
+    "year": "2025",
+    "journal": "Med Biol Eng Comput",
+    "doi": "",
+    "pmid": "",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Are skin lesion superclinics associated with decision fatigue? A controlled, observational study",
+    "authors": "Greenish HWS, Shirwac HF, Morgan H, Heath H, Porter E, Carswell S, White C, Kasaravalli N, Anderson ADG.",
+    "year": "2025",
+    "journal": "Clin Exp Dermatol",
+    "doi": "10.1093/ced/llaf287",
+    "pmid": "40581373",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Integrating Explainable AI for Skin Lesion Classifications: A Systematic Literature Review",
+    "authors": "Bilal M, Rashid M, Vavekanand R, Singh V.",
+    "year": "2025",
+    "journal": "IEEE / Springer / Elsevier",
+    "doi": "10.22541/au.175924893.36263002/v1",
+    "pmid": "",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Plasmablastic Lymphoma With Intravascular Localization in a Kaposi Sarcoma Skin Lesion",
+    "authors": "Sanchez-Diaz M, La Rosa D, García B, Feria K, Ventura A.",
+    "year": "2025",
+    "journal": "J Cutan Pathol",
+    "doi": "10.1111/cup.14858",
+    "pmid": "41177669",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Explainable multimodal AI for skin lesion risk prediction via 3D imaging and clinical data",
+    "authors": "Wang Z, Tai M, Hu H, Yuan H, Wang C, Fu H, Zhang J.",
+    "year": "2025",
+    "journal": "Sci Rep",
+    "doi": "10.1038/s41598-025-33536-z",
+    "pmid": "41430366",
+    "pmcid": "PMC12749747",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "AttenUNeT X with iterative feedback mechanisms for robust deep learning skin lesion segmentation",
+    "authors": "Babu E, Murali S.",
+    "year": "2025",
+    "journal": "Sci Rep",
+    "doi": "10.1038/s41598-025-23830-1",
+    "pmid": "41257867",
+    "pmcid": "PMC12630972",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Out-of-Distribution Performance Analysis of Skin Lesion Classifiers for dermoscopic images",
+    "authors": "Milara E, Gómez-Martínez V, Chushig-Muzo D, Castro-Fernández M, Callico GM, Granja C, Soguero-Ruiz C.",
+    "year": "2025",
+    "journal": "IEEE / Springer / Elsevier",
+    "doi": "10.21203/rs.3.rs-7544969/v1",
+    "pmid": "",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "ScaleFusionNet: transformer-guided multi-scale feature fusion for skin lesion segmentation",
+    "authors": "Qamar S, Furqan Qadri S, Alroobaea R, Alshmrani GM, Fazil M, Jiang R.",
+    "year": "2025",
+    "journal": "Sci Rep",
+    "doi": "10.1038/s41598-025-17300-x",
+    "pmid": "41038982",
+    "pmcid": "PMC12491546",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Lightweight UNet with multi-module synergy and dual-domain attention for precise skin lesion segmentation",
+    "authors": "Chen C, Li L, Li B, Li H, You Y, Zhou W, Bin Y, Wang Z, Li J, Zhang C.",
+    "year": "2025",
+    "journal": "Sci Rep",
+    "doi": "10.1038/s41598-025-28088-1",
+    "pmid": "41345219",
+    "pmcid": "PMC12738719",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "An advanced skin lesion segmentation and classification framework using deep learning strategies",
+    "authors": "Deepa J, Madhavan P.",
+    "year": "2025",
+    "journal": "Sci Rep",
+    "doi": "10.1038/s41598-025-08255-0",
+    "pmid": "41028027",
+    "pmcid": "PMC12485202",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Stepwise self-knowledge distillation for skin lesion image classification",
+    "authors": "Zheng J, Xie K, Zhang D, Lv Z, Yu X.",
+    "year": "2025",
+    "journal": "Sci Rep",
+    "doi": "10.1038/s41598-025-10717-4",
+    "pmid": "40652019",
+    "pmcid": "PMC12255701",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "DMFF-Net: a multi-scale feature fusion network based on DeepLabV3 for skin lesion segmentation",
+    "authors": "Jiang T, Wang S, Xu L, Yin J, Zhang L, Zhang Y, Guo J, Zhang P.",
+    "year": "2025",
+    "journal": "Front Med (Lausanne)",
+    "doi": "10.3389/fmed.2025.1633209",
+    "pmid": "41384114",
+    "pmcid": "PMC12689562",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Deep pixel-wise supervision for skin lesion classification",
+    "authors": "Dzieniszewska A, Garbat P, Piramidowicz R.",
+    "year": "2025",
+    "journal": "Comput Biol Med",
+    "doi": "10.1016/j.compbiomed.2025.110352",
+    "pmid": "40398263",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Enhancing Skin Lesion Classification Generalization with Active Domain Adaptation",
+    "authors": "Ye J.",
+    "year": "2025",
+    "journal": "Annu Int Conf IEEE Eng Med Biol Soc",
+    "doi": "10.1109/embc58623.2025.11253341",
+    "pmid": "41336258",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Pre- and Post-Gated Attention-based Multimodal Fusion for Skin Lesion Classification",
+    "authors": "Nguyen T, Vu V, Nguyen V.",
+    "year": "2025",
+    "journal": "IEEE / Springer / Elsevier",
+    "doi": "10.21203/rs.3.rs-7455733/v1",
+    "pmid": "",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "EASNet: Edge-aware Segmentation Network for Skin Lesion Segmentation with Boundary-aware and Frequency Attention Mechanisms",
+    "authors": "Yu J, Xia Y, Li J, Liu N, Li H, Shi W.",
+    "year": "2025",
+    "journal": "Interdiscip Sci",
+    "doi": "10.1007/s12539-025-00796-2",
+    "pmid": "41387665",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "VMPANet: Vision Mamba Skin Lesion Image Segmentation Model Based on Prompt and Attention Mechanism Fusion",
+    "authors": "Peng Z, Liu S, Li C.",
+    "year": "2025",
+    "journal": "J Imaging",
+    "doi": "10.3390/jimaging11120443",
+    "pmid": "41440583",
+    "pmcid": "PMC12733779",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Deep Learning-Based Mpox Skin Lesion Detection and Real-Time Monitoring in a Smart Healthcare System",
+    "authors": "Alghoraibi H, Alqurashi N, Alotaibi S, Alkhudaydi R, Aldajani B, Batawil J, Alqurashi L, Althagafi A, Thafar MA.",
+    "year": "2025",
+    "journal": "Diagnostics (Basel)",
+    "doi": "10.3390/diagnostics15192505",
+    "pmid": "41095723",
+    "pmcid": "PMC12523520",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Primary Care Skin Lesion Referrals Assessed via Teledermatology: A Retrospective Analysis",
+    "authors": "Hamid I, Vandormael I, Atwan A, Mills C.",
+    "year": "2025",
+    "journal": "Cureus",
+    "doi": "10.7759/cureus.90849",
+    "pmid": "40995279",
+    "pmcid": "PMC12456943",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "DermFusionX: An Explainable CNN–MLP Late Fusion Framework for Multimodal Skin Lesion Classification",
+    "authors": "Sharma V.",
+    "year": "2025",
+    "journal": "IEEE / Springer / Elsevier",
+    "doi": "10.21203/rs.3.rs-7703674/v1",
+    "pmid": "",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Fractal Geometry–Driven Hybrid Framework for Automated Skin Lesion Analysis and Classification",
+    "authors": "Singh N, Kumar S, Vasudevan SK, Gangwar PK.",
+    "year": "2026",
+    "journal": "IEEE / Springer / Elsevier",
+    "doi": "10.21203/rs.3.rs-10779336/v1",
+    "pmid": "",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "An Explainable Computer-Aided Framework for Skin Lesion Classification Using Deep Learning",
+    "authors": "Hashim H, Rokaya M, Farsi M, Elmarhomy G, Alshemali B, Ahmed A, Gad I, Atlam ES.",
+    "year": "2026",
+    "journal": "J Vis Exp",
+    "doi": "10.3791/72639",
+    "pmid": "42644506",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "An Attention-Enhanced MobileViT Framework for Multi-Task Skin Lesion Classification and Segmentation",
+    "authors": "Ge Y, Lu B, Wang H, Yang Z, Zhang Z.",
+    "year": "2026",
+    "journal": "IEEE / Springer / Elsevier",
+    "doi": "10.21203/rs.3.rs-10583629/v1",
+    "pmid": "",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Enhancing semi-supervised skin lesion segmentation with text-guided pseudo descriptions",
+    "authors": "Jiang Y, Li Y, Jin Y, Sun T, Chen P, Su J, Yang L, Zhang Z.",
+    "year": "2026",
+    "journal": "Comput Med Imaging Graph",
+    "doi": "10.1016/j.compmedimag.2026.102811",
+    "pmid": "42667839",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Generative-augmented deep learning framework for scarce-data skin lesion image processing",
+    "authors": "Priya LR, Kiran S, Rajesh Kumar PR, Ananth C.",
+    "year": "2026",
+    "journal": "Cutan Ocul Toxicol",
+    "doi": "10.1080/15569527.2026.2723917",
+    "pmid": "42721048",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "NeviUNet: An Efficient Attention-Enhanced Network for Skin Lesion Segmentation in Total Body Images",
+    "authors": "Dzwonkowska K, Szczypiński PM.",
+    "year": "2026",
+    "journal": "IEEE / Springer / Elsevier",
+    "doi": "10.21203/rs.3.rs-10556854/v1",
+    "pmid": "",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Enhancing Fairness in Skin Lesion Classification for Medical Diagnosis Using Prune Learning",
+    "authors": "Paxton K, Aslansefat K, Thakker D, Papadopoulos Y, Maslekar T.",
+    "year": "2026",
+    "journal": "IEEE J Biomed Health Inform",
+    "doi": "10.1109/jbhi.2026.3652910",
+    "pmid": "41525640",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Skin lesion: the relevance of epidemiological background",
+    "authors": "Aldaba M, Del Rosal T, Falces-Romero I, de Ceano-Vivas M.",
+    "year": "2026",
+    "journal": "An Pediatr (Engl Ed)",
+    "doi": "10.1016/j.anpede.2026.504086",
+    "pmid": "41763930",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Automated Skin Lesion and Cancer Detection Using Computer Vision: A Comprehensive Review",
+    "authors": "Sonune BS, Ramanathan U, Tulaskar DP, Nemane SG, Kulkarni MB, Rewatkar P, Bhaiyya M.",
+    "year": "2026",
+    "journal": "Bioengineering (Basel)",
+    "doi": "10.3390/bioengineering13080872",
+    "pmid": "42649762",
+    "pmcid": "PMC13509497",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Clinical Metadata and Semantic Explanation-Guided Multimodal Deep Learning for Skin Lesion Recognition",
+    "authors": "Chen H, Sun J, Zhang J.",
+    "year": "2026",
+    "journal": "IEEE / Springer / Elsevier",
+    "doi": "10.21203/rs.3.rs-10207287/v1",
+    "pmid": "",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "A Recurrent-Depth Multimodal Model for Skin Lesion Classification: A Feasibility Study Using Derm7pt",
+    "authors": "Yamamura Y, Fujii K, Kagawa N, Nakajima M, Morita S, Iinuma K, Yamamoto K, Nakashima C, Takada A, Otsuka A.",
+    "year": "2026",
+    "journal": "J Dermatol",
+    "doi": "10.1111/1346-8138.70442",
+    "pmid": "42543716",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "An Explainable Privacy Preserving Multimodal Ensemble Framework For Skin Lesion Classification",
+    "authors": "Koul A, Singh NP.",
+    "year": "2026",
+    "journal": "J Vis Exp",
+    "doi": "10.3791/71472",
+    "pmid": "42371851",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Interpretable multimodal fusion for skin lesion classification using dermoscopic images and patient metadata",
+    "authors": "Sonuç E, Saihood Q, Yargı Baydilli Y, Özcan E.",
+    "year": "2026",
+    "journal": "Front Med (Lausanne)",
+    "doi": "10.3389/fmed.2026.1871689",
+    "pmid": "42591190",
+    "pmcid": "PMC13461512",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "A Therapeutic Copper Hydrogel for Seborrheic Dermatitis: From Fungal Eradication to Skin Lesion Repair",
+    "authors": "Zhao L, Li H, Yue Y, Xu D, Liu Z, Yao L, Tian L, Jia Y, Mo H, Hu L.",
+    "year": "2026",
+    "journal": "Adv Healthc Mater",
+    "doi": "10.1002/adhm.71501",
+    "pmid": "42522134",
+    "pmcid": "PMC13507595",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "FD-YOLO-Skin: frequency-domain enhanced YOLO for single-class skin lesion detection",
+    "authors": "Zhang S, Zeng X.",
+    "year": "2026",
+    "journal": "Front Med (Lausanne)",
+    "doi": "10.3389/fmed.2026.1871697",
+    "pmid": "42661793",
+    "pmcid": "PMC13518198",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "LMDAU-Net: An Effective Lightweight Multi-scale Deformation Aggregation U-Net for Skin Lesion Segmentation",
+    "authors": "Hu J, Liu M, Yang J, Su P, Prajapat S, Kumar D, Yee PL, Wei D.",
+    "year": "2026",
+    "journal": "IEEE J Biomed Health Inform",
+    "doi": "10.1109/jbhi.2026.3729717",
+    "pmid": "42678830",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "When Should Skin-Lesion AI Stay Silent? Calibrated SelectiveReferral on HAM10000",
+    "authors": "Yu T.",
+    "year": "2026",
+    "journal": "IEEE / Springer / Elsevier",
+    "doi": "10.21203/rs.3.rs-9783696/v1",
+    "pmid": "",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Tri-Net: unified deep learning for skin lesion and symptom-based monkeypox detection",
+    "authors": "Sudharsan S, Selvam P, Veeramani N, Kiran Kumar B, Ivković N, Cengiz K.",
+    "year": "2026",
+    "journal": "Sci Rep",
+    "doi": "10.1038/s41598-026-61490-x",
+    "pmid": "42443322",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "ZACP: enhancing skin lesion classification ability using zero attention and complete perception",
+    "authors": "Zuo H, Weng Z, Fu Z, Ding F, Chai J, Chen L, Gong C, Zheng Z.",
+    "year": "2026",
+    "journal": "Vis Comput Ind Biomed Art",
+    "doi": "10.1186/s42492-026-00223-3",
+    "pmid": "42406199",
+    "pmcid": "PMC13337999",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "FedSwin-LHTP: Structure-Aware Hessian-Inspired Token Pruning for Efficient Federated Skin Lesion Classification",
+    "authors": "Awais M, Junejo RH.",
+    "year": "2026",
+    "journal": "Diagnostics (Basel)",
+    "doi": "10.3390/diagnostics16162637",
+    "pmid": "42651038",
+    "pmcid": "PMC13511958",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "An Ultra-Lightweight Cross-scale Attention Mamba Network for Accurate Skin Lesion Segmentation",
+    "authors": "Alharith R, Zhang J, Zhao C.",
+    "year": "2026",
+    "journal": "IEEE J Biomed Health Inform",
+    "doi": "10.1109/jbhi.2026.3708901",
+    "pmid": "42384515",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Few-shot skin lesion classification with Adaptive Multi-Scale Convolutional Attention Network",
+    "authors": "Jin H, Liu E, Xu Q, Li Y, Chen X, Chen W.",
+    "year": "2026",
+    "journal": "PLoS One",
+    "doi": "10.1371/journal.pone.0351318",
+    "pmid": "42348575",
+    "pmcid": "PMC13298792",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Missed melanoma following skin lesion triage by an autonomous artificial intelligence system in a community setting",
+    "authors": "Hamid I, Hussain K, Patel NP.",
+    "year": "2026",
+    "journal": "Clin Exp Dermatol",
+    "doi": "10.1093/ced/llag314",
+    "pmid": "42464899",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Improved CNN with BiLSTM model for early melanoma and skin lesion classification",
+    "authors": "Rajeshkumar S, Chowdhary CL.",
+    "year": "2026",
+    "journal": "Front Artif Intell",
+    "doi": "10.3389/frai.2026.1808770",
+    "pmid": "42131690",
+    "pmcid": "PMC13160905",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Semi-supervised Learning with Online Knowledge Distillation for Skin Lesion Classification",
+    "authors": "Manivannan S.",
+    "year": "2026",
+    "journal": "J Imaging Inform Med",
+    "doi": "10.1007/s10278-026-01965-5",
+    "pmid": "42014611",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "MEL-IA: An Interoperable AI System for Multimodal Skin Lesion Classification in Hospital Settings",
+    "authors": "Córcoles PC, De Ramón Fernández A, Calvo MS, Serrano JMS, Peral DG, Fernández DR.",
+    "year": "2026",
+    "journal": "J Med Syst",
+    "doi": "10.1007/s10916-026-02424-y",
+    "pmid": "42277538",
+    "pmcid": "PMC13260036",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Hybrid deep feature fusion and ensemble learning for multi-class skin lesion classification",
+    "authors": "G M, Baskar C, A S.",
+    "year": "2026",
+    "journal": "Front Artif Intell",
+    "doi": "10.3389/frai.2026.1818852",
+    "pmid": "42369002",
+    "pmcid": "PMC13294472",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Outcomes of Risk-Stratified Face-to-Face and Teledermoscopy Pathways for Skin Lesion Referrals: A Retrospective Service Evaluation",
+    "authors": "Eid D, Elaribi S, Ali H, Atwan A.",
+    "year": "2026",
+    "journal": "Cureus",
+    "doi": "10.7759/cureus.113335",
+    "pmid": "42502302",
+    "pmcid": "PMC13401205",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Diagnostic Accuracy of Commercial Large Language Models for Anogenital Skin Lesion Images: A Comparative Study of Gemini, Claude, and ChatGPT",
+    "authors": "Soe NN, Latt PM, Lee D, Aung ET, Horn R, Ong JJ, Fairley CK, Chow EPF.",
+    "year": "2026",
+    "journal": "J Infect Dis",
+    "doi": "10.1093/infdis/jiag258",
+    "pmid": "42105020",
+    "pmcid": "PMC13537126",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Inflammatory Skin Disease in Latin America: Treatment Challenges and Opportunities",
+    "authors": "Mazzuoccolo LD, Angles MV, Cappetta ME, Soriano ER.",
+    "year": "2025",
+    "journal": "J Inflamm Res",
+    "doi": "10.2147/jir.s540854",
+    "pmid": "41466856",
+    "pmcid": "PMC12744303",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Economic Impact of Lumpy Skin Disease in Africa: A Systematic Review",
+    "authors": "Lawal N, Anthony MT, Abubakar FA, Okereke CC, Uhuami AO, Odo US, Alhassan MA.",
+    "year": "2025",
+    "journal": "IEEE / Springer / Elsevier",
+    "doi": "10.21203/rs.3.rs-7780927/v1",
+    "pmid": "",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Molecular Characterization and Epidemiology of Lumpy Skin Disease Virus in Bhutan, 2023",
+    "authors": "Sharma PM, Wangchuk P, Tshering D, La T, Rinchen S, Thapa NK, Settypalli TBK, Dundon WG, Meki IK, Lamien CE.",
+    "year": "2025",
+    "journal": "Transbound Emerg Dis",
+    "doi": "10.1155/tbed/8634585",
+    "pmid": "41395243",
+    "pmcid": "PMC12697798",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Skin-LiteNet: A Lightweight ConvolutionalModule for Skin Disease Image Classification",
+    "authors": "Gao J, Sun L, Zhang P.",
+    "year": "2025",
+    "journal": "IEEE / Springer / Elsevier",
+    "doi": "10.21203/rs.3.rs-7600341/v1",
+    "pmid": "",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Advancing Precision Medicine in Inflammatory Skin Disease",
+    "authors": "Yuan M, Lee J, Taylor M, Cho RJ, Cheng JB.",
+    "year": "2025",
+    "journal": "Am J Clin Dermatol",
+    "doi": "10.1007/s40257-025-00963-7",
+    "pmid": "40819342",
+    "pmcid": "PMC12615522",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Construction and characterization of the ORF131 gene deletion strain of lumpy skin disease virus",
+    "authors": "Li J, Huang W, Ke Q, Li M, Wang X, Wang Q, Yin X, Sun Y.",
+    "year": "2025",
+    "journal": "Virol J",
+    "doi": "10.1186/s12985-025-03056-3",
+    "pmid": "41476301",
+    "pmcid": "PMC12866479",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "First outbreak of lumpy skin disease in Japan, 2024",
+    "authors": "Watanabe M, Ikezawa M, Kitamura T, Shirafuji H, Yoshida N, Nishi T, Kawaguchi R, Kokuho T, Masujin K, Fukai K, Morioka K.",
+    "year": "2025",
+    "journal": "J Vet Med Sci",
+    "doi": "10.1292/jvms.25-0290",
+    "pmid": "40958563",
+    "pmcid": "PMC12604952",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Genetic Characterization of the First Case of Lumpy Skin Disease in Singapore, 2022",
+    "authors": "Koh EY, Tan AKS, Ip YCA, Lau C, Ong J, Ng OW, Chen J, Lee C, Fabbri S, Chua J, Balakumar S, Ho K, Wong WK, Tan BZY, Fernandez CJ, Chang SF, Yap HH.",
+    "year": "2025",
+    "journal": "Vet Sci",
+    "doi": "10.3390/vetsci12111108",
+    "pmid": "41295746",
+    "pmcid": "PMC12656970",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Does Lumpy Skin Disease Have the Potential to Become Zoonotic?",
+    "authors": "Velazquez-Salinas L, Harvey AM, Mire C.",
+    "year": "2025",
+    "journal": "J Med Virol",
+    "doi": "10.1002/jmv.70553",
+    "pmid": "40838779",
+    "pmcid": "PMC12369571",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Refractory Dermatomyositis Skin Disease Successfully Treated with Anifrolumab",
+    "authors": "Keret S, Souval A, Sawaed A, Nemesh N, Slobodin G.",
+    "year": "2025",
+    "journal": "Isr Med Assoc J",
+    "doi": "",
+    "pmid": "40932213",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Galectin-9: diverse roles in skin disease",
+    "authors": "Wang L, Zhang C, Ji J, Jiao Q.",
+    "year": "2025",
+    "journal": "Front Allergy",
+    "doi": "10.3389/falgy.2025.1614277",
+    "pmid": "40741333",
+    "pmcid": "PMC12307340",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "The Role of Dermatologists in Developing AI Tools for Diagnosis and Classification of Skin Disease",
+    "authors": "Ragi SD, Desai AD, Hill RC, Lipner SR.",
+    "year": "2025",
+    "journal": "Cutis",
+    "doi": "10.12788/cutis.1295",
+    "pmid": "41524641",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Function of ceramides in the skin and its relationship with skin disease",
+    "authors": "Huang W, Liu J, Zhao L, He H.",
+    "year": "2025",
+    "journal": "J Steroid Biochem Mol Biol",
+    "doi": "10.1016/j.jsbmb.2025.106842",
+    "pmid": "40803540",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Recent advances in electric-stimulus assisted microneedle patches for skin disease treatment",
+    "authors": "Tao XN, Yao L, Cheng X, Xiang XW, Qiu J, Zhao H, Liu KF.",
+    "year": "2025",
+    "journal": "J Nanobiotechnology",
+    "doi": "10.1186/s12951-025-03835-8",
+    "pmid": "41272674",
+    "pmcid": "PMC12640005",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "MTAKD: multi-teacher agreement knowledge distillation for edge AI skin disease diagnosis",
+    "authors": "Winata A, Andryani NAC, Gunawan AAS, Gaol FL, Matsuo T.",
+    "year": "2025",
+    "journal": "Sci Rep",
+    "doi": "10.1038/s41598-025-27038-1",
+    "pmid": "41419774",
+    "pmcid": "PMC12722719",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Development and evaluation of an experimental inactivated vaccine against lumpy skin disease",
+    "authors": "Shahzad A, Shahzad W, Arshad MI, Abbas RZ, Mahmood MS.",
+    "year": "2025",
+    "journal": "Vet World",
+    "doi": "10.14202/vetworld.2025.3029-3040",
+    "pmid": "41333734",
+    "pmcid": "PMC12668746",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Sniffing Out Skin Disease: Odors in Dermatologic Conditions",
+    "authors": "Malinosky HR, LaCour M, Haas C.",
+    "year": "2025",
+    "journal": "Cutis",
+    "doi": "10.12788/cutis.1263",
+    "pmid": "41056116",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Planet-wide performance of a skin disease AI algorithm validated in Korea",
+    "authors": "Han SS, Cho SI, Fabian G, Navarini AA, Kim MS, Lee DH, Lee JH, Kim J, Won CH, Bae KN, Lee JB, Yoon HS, Chang SE, Kim SH, Na JI, Navarrete-Dechent C.",
+    "year": "2025",
+    "journal": "NPJ Digit Med",
+    "doi": "10.1038/s41746-025-01980-w",
+    "pmid": "41062650",
+    "pmcid": "PMC12508023",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "SkinDisNet: A comprehensive dataset of clinical images and metadata for skin disease detection and classification",
+    "authors": "Sultana M, Sajib RH, Badhan IA, Ahmed M, Bushra MY.",
+    "year": "2025",
+    "journal": "Data Brief",
+    "doi": "10.1016/j.dib.2025.112239",
+    "pmid": "41323762",
+    "pmcid": "PMC12664407",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Mathematical modeling and optimal control analysis of lumpy skin disease in domestic cattle",
+    "authors": "Renu, Yadav RP.",
+    "year": "2025",
+    "journal": "Sci Rep",
+    "doi": "10.1038/s41598-025-21660-9",
+    "pmid": "41162453",
+    "pmcid": "PMC12572143",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Rare skin disease helps uncover mechanisms of acyl ceramide biosynthesis",
+    "authors": "Tollinger S, Ortner D, Trafoier T, Moosbrugger-Martinz V, Gruber R, Schmuth M.",
+    "year": "2025",
+    "journal": "J Lipid Res",
+    "doi": "10.1016/j.jlr.2025.100916",
+    "pmid": "41016601",
+    "pmcid": "PMC12597269",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Attention-Enhanced CNNs and transformers for accurate monkeypox and skin disease detection",
+    "authors": "Mousa A, Safwat A, Elgohr AT, Elhadidy MS, Abdelfatah RI, Kasem HM.",
+    "year": "2025",
+    "journal": "Sci Rep",
+    "doi": "10.1038/s41598-025-12216-y",
+    "pmid": "40998853",
+    "pmcid": "PMC12464176",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Mitochondrial homeostasis: Exploring their impact on skin disease pathogenesis",
+    "authors": "Ahmad Jamil H, Abdul Karim N.",
+    "year": "2025",
+    "journal": "Biomed Pharmacother",
+    "doi": "10.1016/j.biopha.2025.118349",
+    "pmid": "40652722",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "[Lumpy Skin Disease]",
+    "authors": "Watanabe M, Ikezawa M, Kokuho T, Morioka K.",
+    "year": "2025",
+    "journal": "Uirusu",
+    "doi": "10.2222/jsv.75.1",
+    "pmid": "41016798",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Neutrophil lymphocyte ratio as a marker of skin disease activity in older children with juvenile dermatomyositis",
+    "authors": "Swaminathan S, Naik N, Shenoi S, Vandenbergen S, Turnier JL, Zheng Z, Neely J, Andrews JS, Lood C.",
+    "year": "2025",
+    "journal": "Pediatr Rheumatol Online J",
+    "doi": "10.1186/s12969-025-01172-6",
+    "pmid": "41286892",
+    "pmcid": "PMC12642178",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Automated Skin Disease Classification Using Fine-Tuned MobileNetV2 Implemented with TensorFlow and Keras",
+    "authors": "Sattarzadeh A.",
+    "year": "2025",
+    "journal": "IEEE / Springer / Elsevier",
+    "doi": "10.20944/preprints202511.1676.v1",
+    "pmid": "",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Detection and variant characterization of lumpy skin disease virus from dairy cattle in India",
+    "authors": "Bajpai M, Khilari A, Likhitkar B, Musale P, Jadhav S, Dhanikachalam V, Kakramkar P, Bhave K, Swaminathan M, Joshi S, Shanmugam D.",
+    "year": "2025",
+    "journal": "Virus Evol",
+    "doi": "10.1093/ve/veaf090",
+    "pmid": "41356691",
+    "pmcid": "PMC12678169",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Gluteofemoral erythema of pregnancy: a pregnancy-specific skin disease",
+    "authors": "Zhang Y, Wang W, Zhang C, Li W.",
+    "year": "2025",
+    "journal": "Clin Exp Dermatol",
+    "doi": "10.1093/ced/llaf158",
+    "pmid": "40421680",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Skin disease diagnosis using decision and feature level fusion of deep features",
+    "authors": "Zasim Uddin M, Arif Shahriar M, Schuller BW, Nadim Mahamood M, Atiqur Rahman Ahad M.",
+    "year": "2025",
+    "journal": "Front Digit Health",
+    "doi": "10.3389/fdgth.2025.1478688",
+    "pmid": "41180465",
+    "pmcid": "PMC12575228",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Genome-wide characterization of lumpy skin disease virus isolate from Bangladesh",
+    "authors": "Uddin MB, Begum R, Paul JK, Rahman MM, Cho HS, Hossain MM.",
+    "year": "2025",
+    "journal": "Sci Rep",
+    "doi": "10.1038/s41598-025-15825-9",
+    "pmid": "41102254",
+    "pmcid": "PMC12533222",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Epigenetic reprogramming in autoimmune and immune-mediated skin disease",
+    "authors": "Bilik SM, Kraft GP, Sharifi I, Hanly-Jorda FM, Antonevich S, Jimenez JJ, Satoh TK.",
+    "year": "2026",
+    "journal": "Front Immunol",
+    "doi": "10.3389/fimmu.2026.1915200",
+    "pmid": "42719601",
+    "pmcid": "PMC13555258",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Stress and skin disease",
+    "authors": "Kantor J.",
+    "year": "2026",
+    "journal": "J Am Acad Dermatol",
+    "doi": "10.1016/j.jaad.2026.03.081",
+    "pmid": "41905634",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Faecal microbiota transplantation for skin disease: intriguing biology, premature therapy?",
+    "authors": "McGrath JA.",
+    "year": "2026",
+    "journal": "Br J Dermatol",
+    "doi": "10.1093/bjd/ljag366",
+    "pmid": "42659640",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Host immune response to lumpy skin disease virus",
+    "authors": "Ahmed S, Trinidad A, Munyanduki HM, Bowden TR, Balasubramanian NS, Stanger K, Alexander MR.",
+    "year": "2026",
+    "journal": "Vet Immunol Immunopathol",
+    "doi": "10.1016/j.vetimm.2026.111161",
+    "pmid": "42378817",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Seroprevalence of Lumpy Skin Disease and Livestock Owners' Knowledge, Attitudes and Practices in Selected Districts of Kazakhstan",
+    "authors": "Sarzhigitova A, Kutumbetov L, Zhugunissov K, Nissanova R, Kemalova N, Kaliyeva A, Abdrakhmanov S, Ospanov Y, Burambayeva N, Issimov A, Abulgazimova G, Kassymbekova L.",
+    "year": "2026",
+    "journal": "Vet Med Sci",
+    "doi": "10.1002/vms3.71129",
+    "pmid": "42573229",
+    "pmcid": "PMC13455536",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Correction: Farmers' knowledge, attitudes, and practices regarding lumpy skin disease in Northern Bangladesh",
+    "authors": "Sama SP, Bhuiyan MIH, Bhandari P, Chalise R, Midul RH, Ahmed MM, Shihab MKM, Nirob AI, Hossain D, Ahmed MJ.",
+    "year": "2026",
+    "journal": "BMC Vet Res",
+    "doi": "10.1186/s12917-026-05797-x",
+    "pmid": "42563171",
+    "pmcid": "PMC13449383",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Dermel: a light weight meta-learning technique for skin disease diagnosis",
+    "authors": "Tiwari S, Gogoi M, Verma S, Singh KP.",
+    "year": "2026",
+    "journal": "Health Inf Sci Syst",
+    "doi": "10.1007/s13755-026-00474-7",
+    "pmid": "42548662",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Between awareness and impact: The role and limitations of art in the destigmatization of skin disease",
+    "authors": "Deprez E, Lambert J.",
+    "year": "2026",
+    "journal": "J Eur Acad Dermatol Venereol",
+    "doi": "10.1111/jdv.70537",
+    "pmid": "42535465",
+    "pmcid": "PMC13425444",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Visual and lesion descriptor fusion using cross-attention for skin disease diagnosis",
+    "authors": "Afzal M, Shah JH, Saleem R, Younas MU, Tahir A, Saeed MES.",
+    "year": "2026",
+    "journal": "Front Oncol",
+    "doi": "10.3389/fonc.2026.1885137",
+    "pmid": "42698561",
+    "pmcid": "PMC13541541",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Robust multi-class lumpy skin disease diagnosis for practical livestock applications",
+    "authors": "Senussi MF, Heikal AS, Abdelbasset AG, Kang HS.",
+    "year": "2026",
+    "journal": "Sci Rep",
+    "doi": "10.1038/s41598-026-66229-2",
+    "pmid": "42642454",
+    "pmcid": "PMC13507278",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Disease context dictates the cellular targets of IL-17 in inflammatory skin disease",
+    "authors": "Cavagnero KJ, Li F, Jo H, Aguilera C, Fox J, Kirma J, Bogle R, Kahlenberg JM, Tsoi LC, Gudjonsson JE, Gallo RL.",
+    "year": "2026",
+    "journal": "J Invest Dermatol",
+    "doi": "10.1016/j.jid.2026.07.012",
+    "pmid": "42498210",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Magnesium dysregulation and risk of inflammatory skin disease: A multicenter cohort study",
+    "authors": "Chalupczak N, Podolsky AS, Lipner SR.",
+    "year": "2026",
+    "journal": "Dermatol Online J",
+    "doi": "10.25251/nnzpm9sp",
+    "pmid": "42522535",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "First outbreak of Lumpy Skin disease in Catalonia, Spain, 2025-2026",
+    "authors": "Obregon-Gutierrez P, Correa-Fiz F, Fonseca-Rodríguez O, Cortey M, Cobos À, Riera C, Soler M, Ribas N, Domenes F, Pailler-García L, Domingo M, Majó N, Vidal E, Lorca-Oró C.",
+    "year": "2026",
+    "journal": "IEEE / Springer / Elsevier",
+    "doi": "10.64898/2026.06.18.733166",
+    "pmid": "",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "When skin disease affects intimacy: The ethical duty for dermatologists to screen for sexual dysfunction",
+    "authors": "Zieneldien T, Ma S, Succaria F, Grant-Kels JM.",
+    "year": "2026",
+    "journal": "Clin Dermatol",
+    "doi": "10.1016/j.clindermatol.2026.08.006",
+    "pmid": "42570707",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Preparation and immune efficacy evaluation of inactivated lumpy skin disease virus vaccine",
+    "authors": "Diao X, Wan S, Lu J, Zhang X, Li A, Liu F, Dong H, Jia K, Li S, Wang J.",
+    "year": "2026",
+    "journal": "Vet Res Commun",
+    "doi": "10.1007/s11259-026-11392-0",
+    "pmid": "42446614",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "More Than Meets the Eye: A Qualitative Exploration of the Experience of Remission in Chronic Skin Disease",
+    "authors": "Allard D, Mizara A, Edginton T.",
+    "year": "2026",
+    "journal": "Qual Health Res",
+    "doi": "10.1177/10497323261462023",
+    "pmid": "42556823",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Clinico-epidemiological insights and treatment practices of bovine lumpy skin disease in Bangladesh",
+    "authors": "Sumon MKH, Salam SB, Sultana J, Rony SA, Yeasmin F, Rahman AA, Ehsan MA, Islam MA.",
+    "year": "2026",
+    "journal": "PLoS One",
+    "doi": "10.1371/journal.pone.0353682",
+    "pmid": "42430403",
+    "pmcid": "PMC13354101",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Glucagon-like peptide-1-based therapies and the intersection of metabolic and skin disease",
+    "authors": "Ormaza-Vera A, Enos CW.",
+    "year": "2026",
+    "journal": "JAAD Case Rep",
+    "doi": "10.1016/j.jdcr.2026.07.008",
+    "pmid": "42620743",
+    "pmcid": "PMC13486975",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Farmers' knowledge, attitudes, and practices regarding lumpy skin disease in Northern Bangladesh",
+    "authors": "Sama SP, Bhuiyan MIH, Bhandari P, Chalise R, Midul RH, Ahmed MM, Shihab MKM, Nirob AI, Hossain D, Ahmed MJ.",
+    "year": "2026",
+    "journal": "BMC Vet Res",
+    "doi": "10.1186/s12917-026-05555-z",
+    "pmid": "42163305",
+    "pmcid": "PMC13393945",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Chronic Skin Disease, Media Use and Health Values in the Quality of Life of Adolescents",
+    "authors": "Dinnyés KJ, Csoma ZR.",
+    "year": "2026",
+    "journal": "Children (Basel)",
+    "doi": "10.3390/children13070899",
+    "pmid": "42509924",
+    "pmcid": "PMC13406771",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Living with Vulval Skin Disease: Healthcare Barriers, Financial Burden, and Quality-of-Life Impact",
+    "authors": "Fagan N, Lyons D, Cotter D, Ryan A, Lally A.",
+    "year": "2026",
+    "journal": "Clin Exp Dermatol",
+    "doi": "10.1093/ced/llag319",
+    "pmid": "42522557",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Candidate genomic regions associated with differential clinical response to lumpy skin disease in sahiwal cattle",
+    "authors": "Misal S, Patil A, Chhotaray S, Alex R, Gandham RK, Vohra V.",
+    "year": "2026",
+    "journal": "Vet Res Commun",
+    "doi": "10.1007/s11259-026-11464-1",
+    "pmid": "42603235",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Impact of Skin Disease Burden on Quality of Life in Patients with Scleroderma: A Cross-Sectional Observational Study",
+    "authors": "Hussain Parrey A, Lone H, Jeelani S, Ismail M, Ganai J, Manzoor D, Yawer M.",
+    "year": "2026",
+    "journal": "Curr Rheumatol Rev",
+    "doi": "10.2174/0115733971465203260728045756",
+    "pmid": "42634312",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Chasing Ghosts in Pediatric Dermatology: Provider-Directory Inaccuracy and Medicaid Access for Children With Skin Disease",
+    "authors": "McLean MG.",
+    "year": "2026",
+    "journal": "Pediatr Dermatol",
+    "doi": "10.1111/pde.70329",
+    "pmid": "42548300",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "SkinDet-YOLO: a context- and boundary-aware yolov8-based framework for skin disease detection",
+    "authors": "Zhang M, Peng C.",
+    "year": "2026",
+    "journal": "Front Oncol",
+    "doi": "10.3389/fonc.2026.1840189",
+    "pmid": "42488114",
+    "pmcid": "PMC13388896",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Influence of Major Histocompatibility Complex (MHC) Diversity on Immune Modulation, Pathogenesis, and Control of Lumpy Skin Disease Virus",
+    "authors": "Krishna S, Negar Q, Goswami PK, Kumar R, Patel AK, Singh N.",
+    "year": "2026",
+    "journal": "Recent Adv Antiinfect Drug Discov",
+    "doi": "10.2174/0127724344483412260825060606",
+    "pmid": "42725595",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Artificial intelligence in skin disease therapeutics: from drug discovery to personalized treatment pathways",
+    "authors": "Szondy I, Martyin K, Mohos G, Kiss T, Szabó K, Boostani M, Goldust M, Grzybowski A, Bánvölgyi A, Kiss N.",
+    "year": "2026",
+    "journal": "Presse Med",
+    "doi": "10.1016/j.lpm.2026.104376",
+    "pmid": "42386042",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "A Real-Time Mobile AI-Assisted System for Skin Disease Prescreening: A Technical Feasibility Study",
+    "authors": "Sutradhar U, Biswas P, Saha TC, Hossain S, Asef MI.",
+    "year": "2026",
+    "journal": "Health Sci Rep",
+    "doi": "10.1002/hsr2.72616",
+    "pmid": "42267051",
+    "pmcid": "PMC13243179",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Selective culling and the potential persistence of lumpy skin disease in cattle herds: insights from a mechanistic transmission model",
+    "authors": "Delecroix C, Beaunée G, Bertagnoli S, Lurier T, Hayes B, Picault S, Fournié G, Vergne T.",
+    "year": "2026",
+    "journal": "Vet Res",
+    "doi": "10.1186/s13567-026-01828-5",
+    "pmid": "42668370",
+    "pmcid": "PMC13526299",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "CAR T-cell therapy in autoimmune skin disease",
+    "authors": "Schett A, Schett G.",
+    "year": "2026",
+    "journal": "J Eur Acad Dermatol Venereol",
+    "doi": "10.1111/jdv.70178",
+    "pmid": "41738499",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Transformer-aided skin cancer classification using VGG19-based feature encoding",
+    "authors": "Najjar FH, Khudhair ZN, Mohamed F, Rahim MSM, Chan VS, Ali AH.",
+    "year": "2025",
+    "journal": "Sci Rep",
+    "doi": "10.1038/s41598-025-24081-w",
+    "pmid": "41249393",
+    "pmcid": "PMC12623725",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "AI-Powered Skin Lesion Diagnosis using Whale Optimization Algorithm Enhanced ResNet 50 for Cancer Prediction",
+    "authors": "Urundai Meeran SB.",
+    "year": "2025",
+    "journal": "Asian Pac J Cancer Prev",
+    "doi": "10.31557/apjcp.2025.26.8.2919",
+    "pmid": "40849708",
+    "pmcid": "PMC12661256",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Boosting Skin Lesion Classification with a Class Expert DCGAN Framework for Skin Disease Detection",
+    "authors": "Bharot N, Verma P, Singh K, Chaurasia N, Breslin JG.",
+    "year": "2025",
+    "journal": "Annu Int Conf IEEE Eng Med Biol Soc",
+    "doi": "10.1109/embc58623.2025.11254065",
+    "pmid": "41337138",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Comparative analysis of multimodal architectures for effective skin lesion detection using clinical and image data",
+    "authors": "Das A, Agarwal V, Shetty NP.",
+    "year": "2025",
+    "journal": "Front Artif Intell",
+    "doi": "10.3389/frai.2025.1608837",
+    "pmid": "40951333",
+    "pmcid": "PMC12424468",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Advancing Radiological Dermatology with an Optimized Ensemble Deep Learning Model for Skin Lesion Classification",
+    "authors": "Akram A, Akram T, Atteia G, Alanzai S, Qahmash A, Alotaibi FM, Alharbi M.",
+    "year": "2025",
+    "journal": "IEEE / Springer / Elsevier",
+    "doi": "10.21203/rs.3.rs-6214344/v1",
+    "pmid": "",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "MTA-Net: Multi-scale triplet attention-aware network for multiclass skin lesion classification",
+    "authors": "Gajera HK, Nayak DR, Zaveri MA.",
+    "year": "2025",
+    "journal": "Comput Biol Med",
+    "doi": "10.1016/j.compbiomed.2025.110729",
+    "pmid": "40652759",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Design of Block-Scrambling-Based privacy protection mechanism in healthcare using fusion of transfer learning models with Hippopotamus optimization algorithm",
+    "authors": "Elhessewi GMS, Alzahrani MY, Alamgeer M, Darem AA, Albalawneh D, Alqahtani M, Al Sadig M, Alanazi S.",
+    "year": "2025",
+    "journal": "Sci Rep",
+    "doi": "10.1038/s41598-025-04931-3",
+    "pmid": "40594308",
+    "pmcid": "PMC12216478",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Deep Learning Models for Automated Classification of Seborrheic Keratosis: A Comprehensive Literature Review and Comparative Study",
+    "authors": "Jogani V, Dhande A, Panuncialman J, Amal S.",
+    "year": "2025",
+    "journal": "IEEE / Springer / Elsevier",
+    "doi": "10.20944/preprints202505.1601.v1",
+    "pmid": "",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Enhanced skin cancer classification using modified efficientNetV2L with adaptive early stopping mechanism",
+    "authors": "Venkatachalam C, Venkatachalam S, Balakrishnan A.",
+    "year": "2025",
+    "journal": "Sci Rep",
+    "doi": "10.1038/s41598-025-22228-3",
+    "pmid": "41184381",
+    "pmcid": "PMC12583686",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "MetaBlock-SE: A Method to Deal With Missing Metadata in Multimodal Skin Cancer Classification",
+    "authors": "Bouzon PHG, Rocha WFD, Souza LA, Pacheco AGC.",
+    "year": "2025",
+    "journal": "IEEE J Biomed Health Inform",
+    "doi": "10.1109/jbhi.2025.3612837",
+    "pmid": "41359712",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Trust-Aware Semi-Supervised Pseudo-Labeling and Multi-Modal Fusion for Skin Lesion Classification using GNNs",
+    "authors": "Nguyen TT, Vu VH, Nguyen VA.",
+    "year": "2025",
+    "journal": "IEEE / Springer / Elsevier",
+    "doi": "10.21203/rs.3.rs-7181555/v1",
+    "pmid": "",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "DermAssist: A Hybrid Vision Transformer System for Skin Lesion Diagnosis with Automated Alerting and Dual-Sided Portals",
+    "authors": "Nasir S.",
+    "year": "2025",
+    "journal": "IEEE / Springer / Elsevier",
+    "doi": "10.1101/2025.07.15.25331570",
+    "pmid": "",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "EnsembleSkinNet: a transfer learning-based framework for efficient skin cancer detection with explainable AI integration",
+    "authors": "Cherukuri S, Vara Prasad SD.",
+    "year": "2025",
+    "journal": "Front Oncol",
+    "doi": "10.3389/fonc.2025.1699960",
+    "pmid": "41473432",
+    "pmcid": "PMC12745442",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "DermaMamba: A Dual-Branch Vision Mamba Architecture with Linear Complexity for Efficient Skin Lesion Classification",
+    "authors": "Yao Z, Yan Y, Liu Z, Chen T, Cho L, Leung YW, Lu T, Niu W, Qiu Z, Wang Y, Zhu X, Wong KC.",
+    "year": "2025",
+    "journal": "Bioengineering (Basel)",
+    "doi": "10.3390/bioengineering12101030",
+    "pmid": "41155029",
+    "pmcid": "PMC12562176",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Inference time correction based on confidence and uncertainty for improved deep-learning model performance and explainability in medical image classification",
+    "authors": "Jeffrey J, RajKumar A, Pandey S, Bathala L, Yalavarthy PK.",
+    "year": "2025",
+    "journal": "Comput Med Imaging Graph",
+    "doi": "10.1016/j.compmedimag.2025.102630",
+    "pmid": "40857848",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Self-supervised multi-modality learning for multi-label skin lesion classification",
+    "authors": "Wang H, Ahn E, Bi L, Kim J.",
+    "year": "2025",
+    "journal": "Comput Methods Programs Biomed",
+    "doi": "10.1016/j.cmpb.2025.108729",
+    "pmid": "40184849",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Hybrid Transform-Based Feature Extraction for Skin Lesion Classification Using RGB and Grayscale Analysis",
+    "authors": "López-Ávila LF, Álvarez-Borrego J.",
+    "year": "2025",
+    "journal": "IEEE / Springer / Elsevier",
+    "doi": "10.20944/preprints202504.2404.v1",
+    "pmid": "",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Equity and Generalizability of Artificial Intelligence for Skin-Lesion Diagnosis Using Clinical, Dermoscopic, and Smartphone Images: A Systematic Review and Meta-Analysis",
+    "authors": "Tjiu JW, Lu CF.",
+    "year": "2025",
+    "journal": "Medicina (Kaunas)",
+    "doi": "10.3390/medicina61122186",
+    "pmid": "41470188",
+    "pmcid": "PMC12735087",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "A multimodal skin lesion classification through cross-attention fusion and collaborative edge computing",
+    "authors": "Tran-Van NY, Le KH.",
+    "year": "2025",
+    "journal": "Comput Med Imaging Graph",
+    "doi": "10.1016/j.compmedimag.2025.102588",
+    "pmid": "40561935",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Hierarchical skin lesion image classification with prototypical decision tree",
+    "authors": "Yu Z, Nguyen TD, Ju L, Gal Y, Sashindranath M, Bonnington P, Zhang L, Mar V, Ge Z.",
+    "year": "2025",
+    "journal": "NPJ Digit Med",
+    "doi": "10.1038/s41746-024-01395-z",
+    "pmid": "39805946",
+    "pmcid": "PMC11729859",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Skin Cancer Detection and Classification Through Medical Image Analysis Using EfficientNet",
+    "authors": "Das S, Addya RK.",
+    "year": "2025",
+    "journal": "IEEE / Springer / Elsevier",
+    "doi": "10.20944/preprints202507.2171.v1",
+    "pmid": "",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Improving skin lesion classification through saliency-guided loss functions",
+    "authors": "Dakhli R, Barhoumi W.",
+    "year": "2025",
+    "journal": "Comput Biol Med",
+    "doi": "10.1016/j.compbiomed.2025.110299",
+    "pmid": "40375427",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "HiTrace: Hierarchical Class Tracing Approach for Open-Set Recognition on Skin Lesions",
+    "authors": "Hsu BW, Tseng VS.",
+    "year": "2025",
+    "journal": "IEEE J Biomed Health Inform",
+    "doi": "10.1109/jbhi.2025.3560555",
+    "pmid": "40227893",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Adaptive class rebalancing and spatial-aware metadata fusion for long-tailed skin lesion classification",
+    "authors": "Ma T, Han X, Liu G.",
+    "year": "2026",
+    "journal": "Front Med (Lausanne)",
+    "doi": "10.3389/fmed.2026.1841617",
+    "pmid": "42415785",
+    "pmcid": "PMC13337696",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Modelling of hybrid deep ensemble learning based skin lesion detection using FCNN denoising and inception-dilated ResNetV2",
+    "authors": "Sunkavalli JP, Pustokhin D, Laxmi Lydia E, Rani BP, Acharya S, Shrestha B, Lee C.",
+    "year": "2026",
+    "journal": "Sci Rep",
+    "doi": "10.1038/s41598-026-47053-0",
+    "pmid": "41927887",
+    "pmcid": "PMC13194671",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Hybrid Vision Transformer-CNN Architecture with Optimized Feature Selection for Skin Cancer Classification",
+    "authors": "Almjally A, Aziz M, Najam S, Menshawi A, Altaf M, Aljulayfi AF, Jalal A.",
+    "year": "2026",
+    "journal": "Diagnostics (Basel)",
+    "doi": "10.3390/diagnostics16152351",
+    "pmid": "42587588",
+    "pmcid": "PMC13464951",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "SkinFormer: a hybrid vision transformer and ConvNeXtV2 approach for skin cancer detection and segmentation",
+    "authors": "Fu Y, Guo C.",
+    "year": "2026",
+    "journal": "Sci Rep",
+    "doi": "10.1038/s41598-026-48633-w",
+    "pmid": "42036423",
+    "pmcid": "PMC13284305",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Advanced hybrid transformer CNN framework for improved skin lesion classification and segmentation",
+    "authors": "Yousaf N, Amin J, Butt WH, Zafar A, Kim S.",
+    "year": "2026",
+    "journal": "Sci Rep",
+    "doi": "10.1038/s41598-026-43376-0",
+    "pmid": "41840007",
+    "pmcid": "PMC13121705",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Benchmarking Class Imbalance Mitigation Strategies Across Deep CNN Architectures for Skin Cancer Classification",
+    "authors": "Ahmad I, Khubaib M, Altowaijri SM.",
+    "year": "2026",
+    "journal": "Diagnostics (Basel)",
+    "doi": "10.3390/diagnostics16162571",
+    "pmid": "42650974",
+    "pmcid": "PMC13511939",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "DVM-SLC: A Dual-View Meta-Aware Model for Reliable Multi-Class Skin Lesion Classification from Clinical and Dermoscopic Images",
+    "authors": "Çetinel G, Gül S, Öztaş Kara R.",
+    "year": "2026",
+    "journal": "Diagnostics (Basel)",
+    "doi": "10.3390/diagnostics16162543",
+    "pmid": "42650947",
+    "pmcid": "PMC13511556",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Dual concatenated transfer learning with attention fusion: An ensemble-enhanced approach for skin lesion classification",
+    "authors": "Bhowmick P, Rahman J, Efat AH, Nidhi TF, Amit DK.",
+    "year": "2026",
+    "journal": "Digit Health",
+    "doi": "10.1177/20552076261458948",
+    "pmid": "42272709",
+    "pmcid": "PMC13247371",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "From heatmaps to language: Explainable skin cancer diagnosis using CNN-VLM integration with an expert-annotated dataset",
+    "authors": "Ahmmed F, Antik AR, Mehnaj S, Alaly A, Mridha MF.",
+    "year": "2026",
+    "journal": "Artif Intell Med",
+    "doi": "10.1016/j.artmed.2026.103499",
+    "pmid": "42546602",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "A Web-based software toolkit for accessible and best-practice machine learning analyses in biomedical research",
+    "authors": "Lyra P, Qiu J, Dang K, Pybus A, Narvaez-Bandera I, Singh M, Gu Q, Sargent L, Creason A, Goecks J.",
+    "year": "2026",
+    "journal": "IEEE / Springer / Elsevier",
+    "doi": "10.64898/2026.06.05.730487",
+    "pmid": "",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "DH-OOD: A decoupled hybrid framework for robust skin lesion classification via semantic-structural fusion",
+    "authors": "He B, Yao L, Xue N, Liu C, Liu T, Qi Z.",
+    "year": "2026",
+    "journal": "J Xray Sci Technol",
+    "doi": "10.1177/08953996261441749",
+    "pmid": "42267940",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Syn-DermaID: A Dual-Stream Framework for Robust Mobile Biometrics and Skin Lesion Profiling via 3D Synthetic Augmentation",
+    "authors": "Wei Z, Wen LJ, Hao CZ.",
+    "year": "2026",
+    "journal": "IEEE / Springer / Elsevier",
+    "doi": "10.22541/au.177281988.88757994/v1",
+    "pmid": "",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Causal Uncertainty-Decomposed Ensemble Learning for Confounding-Aware Skin Cancer Detection in Dermoscopic Images",
+    "authors": "Khan MF, Ahmad K.",
+    "year": "2026",
+    "journal": "Diagnostics (Basel)",
+    "doi": "10.3390/diagnostics16152453",
+    "pmid": "42587688",
+    "pmcid": "PMC13464959",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "A framework based on hybrid Suzuki-Abe and convex Hull approach for improved classification of skin lesions",
+    "authors": "Sana M, Noor MN, Haneef F, Qahmash A, Atteia G, Ashraf I, Akram T.",
+    "year": "2026",
+    "journal": "Sci Rep",
+    "doi": "10.1038/s41598-026-57934-z",
+    "pmid": "42386821",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Multi-paradigm Vision Transformer ensemble with regional attention and MLP meta-fusion for explainable dermoscopic skin lesion classification",
+    "authors": "Sravani N, Koppu S.",
+    "year": "2026",
+    "journal": "Front Med (Lausanne)",
+    "doi": "10.3389/fmed.2026.1864593",
+    "pmid": "42661729",
+    "pmcid": "PMC13518149",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "CBAM-Xception: An Attention-Guided Framework for Skin Cancer Classification",
+    "authors": "Ahmmed F, Alaly A, Mehnaj S, Antik AR, Hossen MJ, Mridha MF.",
+    "year": "2026",
+    "journal": "J Imaging Inform Med",
+    "doi": "10.1007/s10278-026-01999-9",
+    "pmid": "42118515",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Deep Learning-Based Skin Lesion Classification: A CNN Approach on High-Frequency Ultrasound Imaging",
+    "authors": "da Silva IRV, Jardim AG, de Souza Faés GR, Alva TAP, Becker CDL, Botelho VR.",
+    "year": "2026",
+    "journal": "J Ultrasound Med",
+    "doi": "10.1002/jum.70125",
+    "pmid": "41267329",
+    "pmcid": "PMC13053610",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Morphology-guided attention networks for explainable skin cancer detection under clinical uncertainty",
+    "authors": "Sajid MZ, Hamid MF, Yang Z, Alhefdi M, Alsenan S, Nam Y.",
+    "year": "2026",
+    "journal": "Front Oncol",
+    "doi": "10.3389/fonc.2026.1804329",
+    "pmid": "42022332",
+    "pmcid": "PMC13097149",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "On Demographic Group Fairness Guarantees in Deep Learning",
+    "authors": "Luo Y, Wen C, Shi M, Huang H, Fang Y, Wang M.",
+    "year": "2026",
+    "journal": "IEEE Trans Pattern Anal Mach Intell",
+    "doi": "10.1109/tpami.2026.3674484",
+    "pmid": "41838507",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Advancing Dermatological Diagnosis: A Semi-Supervised EfficientNet-B7 Architecture for Skin Lesion Classification Under Annotation Scarcity",
+    "authors": "Baldania Y, Patel A, Thakkar A.",
+    "year": "2026",
+    "journal": "IEEE / Springer / Elsevier",
+    "doi": "10.21203/rs.3.rs-10004595/v1",
+    "pmid": "",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Incremental Learning Approach for Semantic Segmentation of Skin Histology Images",
+    "authors": "Fatima S, Salam AA, Akram MU, Hameed IA, Ahmed SB.",
+    "year": "2025",
+    "journal": "IEEE / Springer / Elsevier",
+    "doi": "10.1101/2025.10.07.25336648",
+    "pmid": "",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "A Hybrid Deep Learning Ensemble for Accurate Skin Cancer Classification",
+    "authors": "Rahi A.",
+    "year": "2025",
+    "journal": "IEEE / Springer / Elsevier",
+    "doi": "10.1101/2025.09.03.25335044",
+    "pmid": "",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Multimodal deep learning ensemble framework for skin cancer detection",
+    "authors": "Saeed MA, Afify YM, Badr NL, Helal NA.",
+    "year": "2025",
+    "journal": "Sci Rep",
+    "doi": "10.1038/s41598-025-30534-z",
+    "pmid": "41469782",
+    "pmcid": "PMC12753777",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "A hybrid quantum-classical convolutional neural network with a quantum attention mechanism for skin cancer",
+    "authors": "Pandey P, Mandal S.",
+    "year": "2025",
+    "journal": "Sci Rep",
+    "doi": "10.1038/s41598-025-31122-x",
+    "pmid": "41466036",
+    "pmcid": "PMC12800247",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Effective skin cancer classification by modified and optimized inception-ResNet-V2 model",
+    "authors": "Umapathi K, Vanithamani R, Priya L, Harini K, Dadi M, Dixit S, Chan CK, Kumar S, Siddiqui MIH.",
+    "year": "2025",
+    "journal": "Sci Rep",
+    "doi": "10.1038/s41598-025-25480-9",
+    "pmid": "41266780",
+    "pmcid": "PMC12634692",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Multi-Scale Attention Fusion With Depthwise Separable Convolutions for Efficient Skin Cancer Detection",
+    "authors": "Nayeem MD, Rahman MA, Hossain MS, Safran M, Alfarhood S, Mridha MF.",
+    "year": "2025",
+    "journal": "J Cutan Pathol",
+    "doi": "10.1111/cup.14870",
+    "pmid": "40998452",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Boosting Skin Cancer Classification: A Multi-Scale Attention and Ensemble Approach with Vision Transformers",
+    "authors": "Yang G, Luo S, Greer P.",
+    "year": "2025",
+    "journal": "Sensors (Basel)",
+    "doi": "10.3390/s25082479",
+    "pmid": "40285168",
+    "pmcid": "PMC12030980",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "A Comparison of CNN Performance in Skin Cancer Detection",
+    "authors": "Rashed M, kakon Mi.",
+    "year": "2025",
+    "journal": "IEEE / Springer / Elsevier",
+    "doi": "10.20944/preprints202506.0150.v1",
+    "pmid": "",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Topological Feature Fusion for Dermoscopic Skin Cancer Detection",
+    "authors": "Tastan F, Chakraborty S, Lee S, Coskunuzer B.",
+    "year": "2025",
+    "journal": "IEEE / Springer / Elsevier",
+    "doi": "10.1101/2025.11.25.25340992",
+    "pmid": "",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "SADASNet: A Selective and Adaptive Deep Architecture Search Network with Hyperparameter Optimization for Robust Skin Cancer Classification",
+    "authors": "İlker G, Özkan İ.",
+    "year": "2025",
+    "journal": "Diagnostics (Basel)",
+    "doi": "10.3390/diagnostics15050541",
+    "pmid": "40075789",
+    "pmcid": "PMC11899017",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Deep Learning-Based Classification of Melanoma and Cutaneous Lesions Using NFNet Architecture: Development and Clinical Validation",
+    "authors": "Cavadia D, Castro M, Llull MO.",
+    "year": "2025",
+    "journal": "IEEE / Springer / Elsevier",
+    "doi": "10.1101/2025.11.15.25340317",
+    "pmid": "",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Automated skin cancer detection using MedFusionNet with attention-based fusion of ConvNeXt and vision transformer",
+    "authors": "Naeem MA, Yang S, Saleem MA, Javed I, Javeed A.",
+    "year": "2025",
+    "journal": "Sci Rep",
+    "doi": "10.1038/s41598-025-31816-2",
+    "pmid": "41387901",
+    "pmcid": "PMC12706014",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Advanced skin cancer prediction with medical image data using MobileNetV2 deep learning and optimized techniques",
+    "authors": "Öznacar T, Varol Kayapunar N.",
+    "year": "2025",
+    "journal": "Sci Rep",
+    "doi": "10.1038/s41598-025-14963-4",
+    "pmid": "40775513",
+    "pmcid": "PMC12332096",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Decoding Diagnosis: AI Explainability for Enhanced Skin Cancer Detection",
+    "authors": "Sandamal N, Cristina S, Camilleri KP.",
+    "year": "2025",
+    "journal": "Annu Int Conf IEEE Eng Med Biol Soc",
+    "doi": "10.1109/embc58623.2025.11253835",
+    "pmid": "41337192",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Knowledge distillation approach for skin cancer classification on lightweight deep learning model",
+    "authors": "Saha S, Hemal MM, Eidmum MZA, Mridha MF.",
+    "year": "2025",
+    "journal": "Healthc Technol Lett",
+    "doi": "10.1049/htl2.12120",
+    "pmid": "39816700",
+    "pmcid": "PMC11733311",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Skin cancer diagnosis (SCD) using EfficientNet-Wavelet and Gray Wolf Optimization (GWO)",
+    "authors": "Mousa R, Bengari AA.",
+    "year": "2025",
+    "journal": "IEEE / Springer / Elsevier",
+    "doi": "10.21203/rs.3.rs-5976470/v1",
+    "pmid": "",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Enhancing Skin Cancer Diagnosis (SCD) Using Swin Transformer and Late Discrete Wavelet Transform (DWT)",
+    "authors": "Mousa R, Salimi FSS, Mahmoudi L, Abdollahi J, Mardukhian P.",
+    "year": "2025",
+    "journal": "IEEE / Springer / Elsevier",
+    "doi": "10.21203/rs.3.rs-5861071/v1",
+    "pmid": "",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Skin Cancer Classification from Dermatoscopic Images Using Deep Learning Techniques",
+    "authors": "Oberoi SS, Sandhir I, M R.",
+    "year": "2025",
+    "journal": "IEEE / Springer / Elsevier",
+    "doi": "10.21203/rs.3.rs-6473686/v1",
+    "pmid": "",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "A novel hybrid feature fusion approach using handcrafted features with transfer learning model for enhanced skin cancer classification",
+    "authors": "Soundarya B, Poongodi C.",
+    "year": "2025",
+    "journal": "Comput Biol Med",
+    "doi": "10.1016/j.compbiomed.2025.110104",
+    "pmid": "40168807",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "CAD-Skin: A Hybrid Convolutional Neural Network-Autoencoder Framework for Precise Detection and Classification of Skin Lesions and Cancer",
+    "authors": "Khan A, Sajid MZ, Khan NA, Youssef A, Abbas Q.",
+    "year": "2025",
+    "journal": "Bioengineering (Basel)",
+    "doi": "10.3390/bioengineering12040326",
+    "pmid": "40281686",
+    "pmcid": "PMC12025204",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Integrative Approaches for Skin Cancer Detection and Classification : A Dual modal Analysis",
+    "authors": "Sharma N, Pandey MK.",
+    "year": "2025",
+    "journal": "IEEE / Springer / Elsevier",
+    "doi": "10.1101/2025.08.22.25334277",
+    "pmid": "",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Exploring the Effect of Race in Automated Skin Cancer Detection",
+    "authors": "Srivastava R, Ong EP, Wei En Lee J, Tan NC, Ai Qun Oh D, Oh CC.",
+    "year": "2025",
+    "journal": "Annu Int Conf IEEE Eng Med Biol Soc",
+    "doi": "10.1109/embc58623.2025.11253322",
+    "pmid": "41336231",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "The virtual doctor prescribing the future: Diagnostics with interactive clinical decision support",
+    "authors": "Ruhland JB, Wichmann J, Degtyar D, Martin R, Fehse L, Klau JH, Papenbrock T, Sowa JP, Canbay A, Freisleben B, Leyer M, Heider D.",
+    "year": "2025",
+    "journal": "Comput Biol Med",
+    "doi": "10.1016/j.compbiomed.2025.110968",
+    "pmid": "40839937",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "An intelligent framework for skin cancer detection and classification using fusion of Squeeze-Excitation-DenseNet with Metaheuristic-driven ensemble deep learning models",
+    "authors": "Dorathi Jayaseeli JD, Briskilal J, Fancy C, Vaitheeshwaran V, Patibandla RSML, Syed K, Swain AK.",
+    "year": "2025",
+    "journal": "Sci Rep",
+    "doi": "10.1038/s41598-025-92293-1",
+    "pmid": "40033075",
+    "pmcid": "PMC11876321",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Modified Le-Net Model with Multiple Image Features for Skin Cancer Detection",
+    "authors": "Y B VK, H S V, J S.",
+    "year": "2025",
+    "journal": "Cancer Invest",
+    "doi": "10.1080/07357907.2025.2518400",
+    "pmid": "40536067",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Integrating anisotropic heat flow and transformer encoders in convolutional neural network for skin cancer classification",
+    "authors": "Aburass S, Dorgham O, Aljarah I.",
+    "year": "2026",
+    "journal": "Front Med (Lausanne)",
+    "doi": "10.3389/fmed.2026.1834696",
+    "pmid": "42344491",
+    "pmcid": "PMC13286795",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "A Comparative Study of Skin Cancer Image Classification Techniques",
+    "authors": "Kushwaha M, TANJEA A, Illa.",
+    "year": "2026",
+    "journal": "IEEE / Springer / Elsevier",
+    "doi": "10.21203/rs.3.rs-10881035/v1",
+    "pmid": "",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Melanoma Prediction Using a Deep Convolutional Neural Network (CNN) Model",
+    "authors": "Mannan KA, Sifat MMH.",
+    "year": "2026",
+    "journal": "IEEE / Springer / Elsevier",
+    "doi": "10.21203/rs.3.rs-10518501/v1",
+    "pmid": "",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Hybrid vision transformer and graph neural network model with region-adaptive attention for enhanced skin cancer prediction",
+    "authors": "Dogga A, R S, S S.",
+    "year": "2026",
+    "journal": "Sci Rep",
+    "doi": "10.1038/s41598-025-32502-z",
+    "pmid": "41654513",
+    "pmcid": "PMC12887072",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Skin tumor identification by means of convolutional neural network and improved gray wolf optimizer",
+    "authors": "Ou M, Wu H, Liu H, Zhu J.",
+    "year": "2026",
+    "journal": "Front Oncol",
+    "doi": "10.3389/fonc.2026.1724577",
+    "pmid": "42164121",
+    "pmcid": "PMC13183528",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "A Neuro-Symbolic Fuzzy Rule-based Approach forMelanoma Classification",
+    "authors": "Ibrahimi MA, Straccia U.",
+    "year": "2026",
+    "journal": "IEEE / Springer / Elsevier",
+    "doi": "10.21203/rs.3.rs-10142900/v1",
+    "pmid": "",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Explainable and secure federated learning for privacy-enhancing skin cancer classification using a lightweight multi-scale CNN",
+    "authors": "Sayeed ASM, Birahim SA, Ullah MS, Islam Y, Paul A, Hasan MA, Ahsan M, Kowalski M.",
+    "year": "2026",
+    "journal": "Sci Rep",
+    "doi": "10.1038/s41598-026-41360-2",
+    "pmid": "41760723",
+    "pmcid": "PMC13057075",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "SAVE: Spectrum-Aided Visual Enhancement for AI-Based Skin Cancer Detection",
+    "authors": "Huang HY, Nagisetti Y, Mukundan A, Karmarkar R, Libu SA, Liu TY, Wang HC.",
+    "year": "2026",
+    "journal": "Diagnostics (Basel)",
+    "doi": "10.3390/diagnostics16121864",
+    "pmid": "42351523",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Deep learning-based multi-class classification of cutaneous lesions for dermatological assessment",
+    "authors": "Ravisankar S, Karthikeyan M.",
+    "year": "2026",
+    "journal": "Cutan Ocul Toxicol",
+    "doi": "10.1080/15569527.2026.2702002",
+    "pmid": "42472688",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Next-Generation Skin Cancer Detection Using Efficient Fuzzy Fusion of Genomic and Imaging Data",
+    "authors": "Molla AR, Maity A, Saha S, Bhattacharya R, Chakraborty A, Biswas S, Nath S.",
+    "year": "2026",
+    "journal": "IEEE / Springer / Elsevier",
+    "doi": "10.64898/2026.06.05.26355024",
+    "pmid": "",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Image-Driven Multimodal Deep Learning for Skin Cancer Diagnosis: Cross-Attention Fusion of Dermoscopic Imaging Clinical Data and Knowledge Graphs",
+    "authors": "Waseem SS, Iftikhar S, Rafiq A, Lee K, Hassan SR.",
+    "year": "2026",
+    "journal": "Sensors (Basel)",
+    "doi": "10.3390/s26154728",
+    "pmid": "42590505",
+    "pmcid": "PMC13469167",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Intelligent Nanomedicine: AI-Driven Smart Carrier Design for Precision Skin Cancer Therapy",
+    "authors": "Meshram N, Vinchurkar K, Borse L, Singh S.",
+    "year": "2026",
+    "journal": "Curr Drug Deliv",
+    "doi": "10.2174/0115672018449461260428052800",
+    "pmid": "42473222",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "From local textures to global attention: a hybrid feature fusion network for skin lesion classification",
+    "authors": "Alkhrijah Y, Shah SNH, Usman SM, Khalid S, Shah SA, Alshuhri SS, Shin J.",
+    "year": "2026",
+    "journal": "Sci Rep",
+    "doi": "10.1038/s41598-026-48260-5",
+    "pmid": "42014488",
+    "pmcid": "PMC13270101",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "A Transfer Learning Approach for Skin Cancer Classification Using Dense CNN Optimized with RAdam and CosineAnnealing",
+    "authors": "Goswami A, Chandra K, Kar S.",
+    "year": "2026",
+    "journal": "IEEE / Springer / Elsevier",
+    "doi": "10.22541/au.177575361.19221342/v1",
+    "pmid": "",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Evaluating the Performance of Artificial Intelligence in Accurately Detecting Skin Cancer: An Umbrella Review of Systematic Reviews and Meta-analyses",
+    "authors": "Jeon JJ, Chun H, Lee J, Son H, Lee C, Lee K, Oh SS, Hwang S, Hyun CS, Kim MH, Cho E, Lee S, Shin JI.",
+    "year": "2026",
+    "journal": "Am J Clin Dermatol",
+    "doi": "10.1007/s40257-026-01034-1",
+    "pmid": "42189487",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Differential Attention Feature Aggregator (DAFE) for Advanced Melanoma Detection",
+    "authors": "Chen Y, Wang C, Peng J, Cao X, Huang R, Yang W, Guo B, Yu W.",
+    "year": "2026",
+    "journal": "J Imaging Inform Med",
+    "doi": "10.1007/s10278-026-01968-2",
+    "pmid": "42115490",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "HisToSpatialCNV: an interpretable deep learning method predicting spatial copy number variations from histopathology images",
+    "authors": "Chen T, Unjitwattana T, Guo X, Thakur P, Zhou S, Jing Z, Yang Y, Du Y, Zou W, Garmire LX.",
+    "year": "2026",
+    "journal": "Nat Biomed Eng",
+    "doi": "10.1038/s41551-026-01754-z",
+    "pmid": "42637837",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Integrating features of radiomics and CNN models for early skin cancer detection based on watershed segmentation",
+    "authors": "Alshmrani AS, Alotaibi FM, Alfakeeh AS.",
+    "year": "2026",
+    "journal": "Discov Oncol",
+    "doi": "10.1007/s12672-026-04652-7",
+    "pmid": "41706382",
+    "pmcid": "PMC13022138",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "TailBoost: Tail-Synthetic Learning for Boosting Long-Tailed Skin Cancer Image Classification",
+    "authors": "Wei T, Huang Y, Lin L, Cheng P, Tang X.",
+    "year": "2026",
+    "journal": "Sensors (Basel)",
+    "doi": "10.3390/s26113343",
+    "pmid": "42280864",
+    "pmcid": "PMC13259267",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Multimodal artificial intelligence for enhanced skin cancer diagnosis and prognosis",
+    "authors": "Karnwal A, Selvaraj M, Kumar G, Kumar A, Al-Tawaha ARMS, Aqueel-Ur-Rehman, Nesterova N.",
+    "year": "2026",
+    "journal": "Discov Oncol",
+    "doi": "10.1007/s12672-026-04532-0",
+    "pmid": "41739311",
+    "pmcid": "PMC13038710",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "A Melanoma-Sensitive Deep Learning Model for Multi-Class Skin Cancer Classification Using Dermoscopic Images",
+    "authors": "Pise R, Shaikh P.",
+    "year": "2026",
+    "journal": "IEEE / Springer / Elsevier",
+    "doi": "10.21203/rs.3.rs-9449618/v1",
+    "pmid": "",
+    "pmcid": "",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "Skin cancer detection using late fusion of pretrained models",
+    "authors": "Ksibi A, Walha A, Zakariah M, Ayadi M, Almujally NA, Alshalali T.",
+    "year": "2026",
+    "journal": "Sci Rep",
+    "doi": "10.1038/s41598-026-48687-w",
+    "pmid": "42002581",
+    "pmcid": "PMC13254368",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "A robust stacked ensemble strategy with multi-optimizer CNN models for skin cancer classification",
+    "authors": "Panwar A, Agarwal J, Vashist S, Arora Y, Jain A, Krejcar O, Frischer R, Namazi H.",
+    "year": "2026",
+    "journal": "Sci Rep",
+    "doi": "10.1038/s41598-026-51607-7",
+    "pmid": "42151239",
+    "pmcid": "PMC13376220",
+    "abstract": "No abstract available."
+  },
+  {
+    "title": "DermaScanAI an explainable hybrid deep learning framework for automated skin lesion classification using dual attention and metadata fusion",
+    "authors": "Murali P, Mazumder DH.",
+    "year": "2026",
+    "journal": "Sci Rep",
+    "doi": "10.1038/s41598-026-46011-0",
+    "pmid": "41888268",
+    "pmcid": "PMC13172562",
+    "abstract": "No abstract available."
+  }
+]

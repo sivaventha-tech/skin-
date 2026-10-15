@@ -1,23 +1,57 @@
-@"
-venv/
-__pycache__/
-*.pyc
+# ============================================================
+# SKIN DISEASE CLASSIFICATION - SECURE GITIGNORE
+# Prevents dataset leakage, personal data, and large model files
+# ============================================================
 
+# 1. Virtual Environments
+venv/
+env/
+ENV/
+.venv/
+
+# 2. Python Cache & Compiled Files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# 3. Datasets & Patient Image Repositories (Strict Privacy & Size Protection)
 dataset/raw/
 dataset/cleaned/
-dataset/processed/
 dataset/preprocessed/
+dataset/processed/
+dataset/*.zip
+dataset/*.tar.gz
+dataset/*.csv
+uploads/
+*.jpg.tmp
+*.png.tmp
 
+# 4. Model Weights & Checkpoints (>100MB blocked by GitHub)
 checkpoints/*.pth
 checkpoints/*.pt
+checkpoints/*.onnx
+checkpoints/*.h5
+*.pth
+*.pt
 
-uploads/
+# 5. Scratch, Temporary, and Installer Files
+scratch/
+installers/
 *.log
+.DS_Store
+Thumbs.db
+ehthumbs.db
 
-results/figures/
-results/reports/
-
+# 6. IDE & Environment Secrets
 .env
+*.env
+.env.*
 .vscode/
 .idea/
-"@ | Set-Content .gitignore
+*.sublime-project
+*.sublime-workspace
+
+# 7. Jupyter Notebook checkpoints
+.ipynb_checkpoints/

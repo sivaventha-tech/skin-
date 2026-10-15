@@ -1,0 +1,14 @@
+{
+    "model_name": "Proposed MSTA-Net (Multi-Scale Tri-Stage Adaptive Attention)",
+    "base_paper_accuracy_percent": 94.57,
+    "proposed_accuracy_percent": 52.997811816192566,
+    "accuracy_improvement_percent": -41.57218818380743,
+    "precision_macro": 49.7886709881797,
+    "recall_macro": 52.500464033596785,
+    "f1_macro": 49.11367699882785,
+    "precision_weighted": 55.78205619413236,
+    "recall_weighted": 52.997811816192566,
+    "f1_weighted": 52.842036022406646,
+    "test_samples": 2285,
+    "num_classes": 22
+}

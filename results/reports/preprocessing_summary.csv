@@ -1,0 +1,4 @@
+split,original_images,preprocessed_images,wrong_size,wrong_mode,unreadable
+train,10549,10549,0,0,0
+validation,2252,2252,0,0,0
+test,2285,2285,0,0,0

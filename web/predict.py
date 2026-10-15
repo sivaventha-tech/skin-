@@ -382,8 +382,13 @@ def predict():
 
         model_name=model_name,
 
-        image_data=image_data_url
+        image_data=image_data_url,
+
+        image_url=image_data_url,
+
+        uploaded_image=image_data_url
     )
+
 
 
 # ============================================================

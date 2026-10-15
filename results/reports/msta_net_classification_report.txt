@@ -1,0 +1,31 @@
+MSTA-NET PROPOSED MODEL TEST SET CLASSIFICATION REPORT
+================================================================================
+
+                     precision    recall  f1-score   support
+
+               Acne     0.6491    0.7551    0.6981        98
+  Actinic_Keratosis     0.6282    0.3952    0.4851       124
+      Benign_tumors     0.5102    0.2762    0.3584       181
+            Bullous     0.6441    0.4524    0.5315        84
+        Candidiasis     0.4189    0.7750    0.5439        40
+       DrugEruption     0.5897    0.5169    0.5509        89
+             Eczema     0.5565    0.4367    0.4894       158
+ Infestations_Bites     0.3625    0.3372    0.3494        86
+             Lichen     0.4058    0.3111    0.3522        90
+              Lupus     0.2714    0.3654    0.3115        52
+              Moles     0.3667    0.5593    0.4430        59
+          Psoriasis     0.5385    0.3158    0.3981       133
+            Rosacea     0.3333    0.8372    0.4768        43
+  Seborrh_Keratoses     0.5204    0.6711    0.5862        76
+         SkinCancer     0.4651    0.3509    0.4000       114
+Sun_Sunlight_Damage     0.1908    0.4808    0.2732        52
+              Tinea     0.5000    0.3557    0.4157       149
+     Unknown_Normal     0.9132    0.9495    0.9310       277
+    Vascular_Tumors     0.3958    0.4222    0.4086        90
+         Vasculitis     0.3066    0.5455    0.3925        77
+           Vitiligo     0.8230    0.7815    0.8017       119
+              Warts     0.5636    0.6596    0.6078        94
+
+           accuracy                         0.5300      2285
+          macro avg     0.4979    0.5250    0.4911      2285
+       weighted avg     0.5578    0.5300    0.5284      2285

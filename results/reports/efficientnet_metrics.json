@@ -1,0 +1,13 @@
+{
+    "model": "EfficientNet-B0",
+    "test_samples": 2285,
+    "number_of_classes": 22,
+    "accuracy": 0.4442013129102845,
+    "accuracy_percent": 44.42013129102845,
+    "precision_macro": 0.4153291052993293,
+    "recall_macro": 0.44002782705005666,
+    "f1_macro": 0.4036788174397154,
+    "precision_weighted": 0.46732577747631376,
+    "recall_weighted": 0.4442013129102845,
+    "f1_weighted": 0.43825335462889126
+}

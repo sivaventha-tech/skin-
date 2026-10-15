@@ -106,7 +106,7 @@
 
         <p>
             The uploaded image has been analyzed by the
-            Attention-Enhanced EfficientNet-B0 model.
+            <strong>{{ model_name or "MSTA-Net (Multi-Scale Tri-Stage Adaptive Attention Network)" }}</strong>.
         </p>
 
     </section>
@@ -133,7 +133,15 @@
 
             <div class="result-image-wrapper">
 
-                {% if image_url %}
+                {% if image_data %}
+
+                <img
+                    src="{{ image_data }}"
+                    alt="Analyzed skin image"
+                    class="result-image"
+                >
+
+                {% elif image_url %}
 
                 <img
                     src="{{ image_url }}"
@@ -167,6 +175,7 @@
                 </div>
 
                 {% endif %}
+
 
             </div>
 
